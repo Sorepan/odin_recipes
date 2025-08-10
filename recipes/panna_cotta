@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Panna Cotta</title>
+</head>
+<body>
+    <header>
+        <h1>Panna Cotta</h1>
+    </header>
+
+    <section>
+        <img src="images/panna-cotta-dessert-1512703.jpg" alt="Panna Cotta" width="400">
+        <p>Photo by <a href="/photographer/salsachica-38004">salsachica</a> on <a href="/">Freeimages.com</a></p>
+    </section>
+
+    <footer>
+        <a href="../index.html">Home</a>
+    </footer>
+</body>
+</html>
