@@ -10,10 +10,39 @@
         <h1>Panna Cotta</h1>
     </header>
 
-    <section>
+    <div>
         <img src="images/panna-cotta-dessert-1512703.jpg" alt="Panna Cotta" width="400">
         <p>Photo by <a href="/photographer/salsachica-38004">salsachica</a> on <a href="/">Freeimages.com</a></p>
-    </section>
+    </div>
+
+    <div>
+        <h2>Description</h2>
+
+        <p>Classic Italian dessert that's easy to make and delicious to eat</p>
+    </div>
+
+    <div>
+        <h2>Ingredients</h2>
+
+        <ul>
+            <li>250g heavy cream</li>
+            <li>200g granulated sugar</li>
+            <li>2 teaspoons of cornstarch</li>
+            <li>1 teaspoon of vanilla extract</li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>Steps</h2>
+
+        <ol>
+            <li>In a bowl, whisk together the heavy cream, sugar, cornstarch, and vanilla extract.</li>
+            <li>Pour the cream mixture into a saucepan and cook over medium heat, whisking constantly, until the cream reaches 85°C.</li>
+            <li>Remove the cream from the heat and let it cool to room temperature.</li>
+            <li>Once the cream is cooled, pour it into individual molds or a single container. If desired, add a tablespoon of melted butter on top.</li>
+            <li>Refrigerate the panna cotta for at least 4 hours. Serve chilled, garnished with fresh fruit or fruit sauce if desired.</li>
+        </ol>
+    </div>
 
     <footer>
         <a href="../index.html">Home</a>
